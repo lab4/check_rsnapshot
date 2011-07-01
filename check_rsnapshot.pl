@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 # Script to perform several checks on rsnapshot backups
+# License GPL
 
 use strict;
 use warnings;
